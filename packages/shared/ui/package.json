@@ -1,6 +1,6 @@
 {
   "name": "@np/ui",
-  "version": "0.1.0",
+  "version": null,
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {

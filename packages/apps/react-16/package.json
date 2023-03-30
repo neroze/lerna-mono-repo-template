@@ -1,7 +1,7 @@
 {
 	"name": "react-16",
 	"private": true,
-	"version": "0.1.0",
+	"version": null,
 	"type": "module",
 	"scripts": {
 		"dev": "vite",
